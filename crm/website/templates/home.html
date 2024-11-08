@@ -3,6 +3,11 @@
 {% block content %}
     {% if user.is_authenticated %}
         <h1>Hello User</h1>
+        {% if records %}
+            {% for record in records %}
+                {{ record }} <br>
+            {% endfor %}
+        {% endif %}
     {% else %}
         <h1>Main Page</h1>
     {% endif %}
