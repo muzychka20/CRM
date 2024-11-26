@@ -78,11 +78,16 @@ DATABASES = {
     'default': {
         'ENGINE': 'mssql',
         'NAME': 'CRM',
-        'PORT': '',
-        'OPTIONS': {},
+        'HOST': 'localhost',
+        'PORT': '1433',
+        'USER': 'SA',
+        'PASSWORD': 'Password123',
+        'OPTIONS': {
+            'driver': 'ODBC Driver 17 for SQL Server',
+            'trusted_connection': 'yes',
+        },
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
