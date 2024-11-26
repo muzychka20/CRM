@@ -1,14 +1,16 @@
-<img width="1507" alt="Screenshot 2024-11-27 at 00 44 25" src="https://github.com/user-attachments/assets/ba08cf90-b828-4571-8e35-2d208aa79829"># Django CRM Application
+# Django CRM Application
 
 ## Overview
 This is a Customer Relationship Management (CRM) application built using Django. It provides functionalities for user registration, authentication, and management of customer records. The application includes forms for user registration, adding, updating, and deleting customer records.
 
-<img width="1507" alt="Screenshot 2024-11-27 at 00 44 25" src="https://github.com/user-attachments/assets/ac5deed9-2234-4346-a836-eec29c210416">
+<img width="1507" alt="Screenshot 2024-11-27 at 00 44 25" src="https://github.com/user-attachments/assets/ba08cf90-b828-4571-8e35-2d208aa79829">
 
 ## Features
 - User Authentication (Login, Logout, Register)
 - Add, View, Update, and Delete Customer Records
 - Bootstrap 5 Integration for a responsive and user-friendly interface
+
+<img width="1507" alt="Screenshot 2024-11-27 at 00 44 25" src="https://github.com/user-attachments/assets/ac5deed9-2234-4346-a836-eec29c210416">
 
 ## Prerequisites
 Before running this project, ensure you have the following installed:
