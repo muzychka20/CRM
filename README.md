@@ -10,8 +10,6 @@ This is a Customer Relationship Management (CRM) application built using Django.
 - Add, View, Update, and Delete Customer Records
 - Bootstrap 5 Integration for a responsive and user-friendly interface
 
-<img width="1507" alt="Screenshot 2024-11-27 at 00 44 25" src="https://github.com/user-attachments/assets/ac5deed9-2234-4346-a836-eec29c210416">
-
 ## Prerequisites
 Before running this project, ensure you have the following installed:
 
